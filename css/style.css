@@ -1,0 +1,157 @@
+body {
+    color: #40514e;
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather', serif;
+}
+
+h1 {
+    margin: 10px auto 0 auto;
+    font-family: 'Sacramento', sans-serif;
+    font-size: 90px;
+    color: #11999E;   
+}
+
+.span {
+    text-decoration: underline;
+}
+
+h2, h3 {
+    font-family: 'poppins', sans-serif;
+    color: #11999E;
+}
+
+h3 {
+    font-weight: 500;
+    font-size: larger;
+}
+
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container {
+margin-top: 70px;
+}
+
+.top-cloud {
+    position:absolute;
+    right: 300px;
+    top: 40px;
+    
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+    }
+
+.profile {
+  object-fit:cover;
+  border-width: 8px;
+  border-radius:80px;
+}
+
+.intro {
+    width: 32%;
+    text-align: center;
+    margin: auto;
+}
+
+p {
+    line-height: 2;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 50px auto 50px auto;
+    text-align: left;
+}
+
+.computer-img {
+    width: 25%;
+    float: left;
+    margin-right: 20px;
+} 
+
+.piano-img {
+    width: 25%;
+    float: right;
+    margin-left: 20px;
+}
+
+.profile-img {
+    width: 25%;
+}
+
+hr {
+    color: rgba(128, 128, 128, 0.3);
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 5%;
+    margin: 50px auto 70px auto;;
+  }
+
+.skills-para {
+      text-align: justify;
+  }
+
+.music-head {
+    padding-top: 50px;
+}
+
+button {
+    margin: 50px auto 50px auto;
+    font-family: 'poppins', sans-serif;
+    font-size: 20px;
+    height: 45px;
+    width: 190px;
+    font-weight: 600;  
+    border-radius: 10px;
+    border-style: hidden;
+    background-image: linear-gradient(#11CDD4, #11999E); 
+}
+
+button:hover {
+    background-image: linear-gradient(#30E3CB, #2BC4AD); 
+}
+
+.btn {
+    color: white;
+    text-decoration: none;
+}
+
+.btn:hover {
+    color: white;
+}
+
+
+.bottom-container {
+    margin: 0;
+    background-color: #E4F9F5;
+    padding: 50px 0 10px 0;
+}
+
+a {
+    color: #18c6cc;
+    font-family: 'poppins', sans-serif;
+    margin: 10px 20px; 
+    text-decoration: none; 
+}
+
+a:hover {
+    color: #0b6062;
+}
+
+.copyright {
+    color: #0b6062;
+    font-size: 12px;
+    padding: 20px 0;
+}
+
+/*  color palette   - https://colorhunt.co/palette/14832  
+    inpiration      - https://web.archive.org/web/20180819202235js_/http://seanhalpin.io/ */
