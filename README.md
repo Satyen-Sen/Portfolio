@@ -1,5 +1,7 @@
 # Portfolio-HTML
 
+A fully-repsonsive static portfolio of the author, created using HTML & CSS. 
+
 ***
 
 Deployed at           -  https://satyen-sen.github.io/Portfolio-HTML/
