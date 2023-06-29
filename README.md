@@ -1,9 +1,11 @@
-# My-Website
+# Portfolio-HTML
 
-Color Palette used    - https://colorhunt.co/palette/14832  
+***
+
+Deployed at           -  https://satyen-sen.github.io/Portfolio-HTML/
 
 Original Inpiration   - https://web.archive.org/web/20180819202235js_/http://seanhalpin.io/ 
 
-View Output here      - https://satyen-sen.github.io/My-Website/
+Color Palette used    - https://colorhunt.co/palette/14832  
 
-A Practice Session for HTML & CSS
+A practice project for HTML & CSS, and deployed using Github Pages. 
