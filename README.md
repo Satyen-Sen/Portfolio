@@ -1,4 +1,4 @@
-# Portfolio-HTML
+# Portfolio
 
 A fully responsive static portfolio of the author, built using HTML & CSS, and deployed on GitHub Pages.
 
