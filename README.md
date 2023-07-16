@@ -2,7 +2,7 @@
 
 A fully responsive static portfolio of the author, built using HTML & CSS, and deployed on GitHub Pages.
 
-Deployed at           -  https://satyen-sen.github.io/Portfolio-HTML/
+Deployed at           -  [https://satyen-sen.github.io/Portfolio-HTML/](https://satyen-sen.github.io/Portfolio/)
 
 
 ***
